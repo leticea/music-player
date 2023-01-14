@@ -14,10 +14,6 @@ body * {
   font-family: 'Roboto', sans-serif;
 }
 
-#app * {
-  /*border: 1px solid red;*/
-}
-
 #app {
   display: grid;
   grid-template-columns: max-content max-content;
@@ -135,5 +131,18 @@ body * {
   margin-top: 9.6px;
 }
 
+@media (max-width: 670px) {
 
+  #app {
+    display: flex;
+    flex-direction: column;
+    max-width: 270px;
+    margin: auto;
+    height: auto;
+    padding-block: 60px;
+  }
 
+  .horizontal .controls {
+    padding-inline: 30px;
+  }
+}
