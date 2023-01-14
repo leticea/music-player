@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desafio do #boraCodar da Rocketseat: um layout de reprodutor de música, muito ditádico.
+Desafio do #boraCodar da Rocketseat: um layout de reprodutor de música, muito didático.
 
 Aula do canal [Rocketseat](https://www.youtube.com/watch?v=M_eaBcany6Y)
 
