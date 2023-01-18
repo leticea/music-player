@@ -22,9 +22,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desafio do #boraCodar da Rocketseat: um layout de reprodutor de música, muito didático.
+Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
 
-Aula do canal [Rocketseat](https://www.youtube.com/watch?v=M_eaBcany6Y)
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>name</th>
+      <th>date</th>
+      <th>view</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Music Player</td>
+      <td>11/01/23</td>
+      <td><a href="https://github.com/leticea/music-player">🔗</a></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Product Card</td>
+      <td>18/01/23</td>
+      <td><a href="https://github.com/leticea/product-card">🔗</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🚀 Como Rodar
 
