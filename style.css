@@ -7,19 +7,19 @@
 }
 
 body {
-  background-color: #0F0D13;
+  background-color: #0f0d13;
 }
 
 body * {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #app {
   display: grid;
   grid-template-columns: max-content max-content;
   grid-template-areas:
-  'A B'
-  'A C';
+    "A B"
+    "A C";
   gap: 32px;
   place-content: center;
   height: 100vh;
@@ -45,7 +45,7 @@ body * {
   margin-top: 28px;
 }
 
-#player-2  {
+#player-2 {
   grid-area: B;
   height: fit-content;
 }
@@ -55,7 +55,7 @@ body * {
 }
 
 .player {
-  background-color: #2A2141;
+  background-color: #2a2141;
   padding: 28px;
   border-radius: 10px;
 }
@@ -74,7 +74,7 @@ body * {
 }
 
 .info {
-  color: #E1E1E6;
+  color: #e1e1e6;
 }
 
 .info h1 {
@@ -103,28 +103,28 @@ body * {
 }
 
 .track::before {
-  content: '';
+  content: "";
   height: 6px;
   width: 100%;
   display: block;
-  background: #D9D9D9;
+  background: #d9d9d9;
   opacity: 0.3;
   border-radius: 10px;
   position: absolute;
 }
 
 .track::after {
-  content: '';
+  content: "";
   height: 6px;
   width: 80%;
   display: block;
-  background: #D9D9D9;
+  background: #d9d9d9;
   border-radius: 10px;
 }
 
 .time {
   font-size: 14px;
-  color: #C4C4CC;
+  color: #c4c4cc;
   opacity: 0.7;
   display: flex;
   justify-content: space-between;
@@ -132,7 +132,6 @@ body * {
 }
 
 @media (max-width: 670px) {
-
   #app {
     display: flex;
     flex-direction: column;
