@@ -11,7 +11,7 @@
   <img alt="" src=".github/image.png">
 </p>
 
-# Music Player Template
+# Music Player Interface
 
 ## 🚀 Tecnologias
 
@@ -129,6 +129,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>The — !Abstract Gallery</td>
       <td>24/05/23</td>
       <td><a href="https://github.com/leticea/abstract-gallery">🔗</a></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Shopping Cart Interface</td>
+      <td>31/05/23</td>
+      <td><a href="https://github.com/leticea/shopping-cart">🔗</a></td>
     </tr>
   </tbody>
 </table>
